@@ -9,7 +9,7 @@
 </div>
 
 <!-- Introduction -->
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm M Sai Prasad Reddy 👋</h1>
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate software developer with experience in various technologies and a love for continuous learning.
 </p>
