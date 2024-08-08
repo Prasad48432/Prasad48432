@@ -6,6 +6,7 @@ Full Stack Web Developer | App Developer
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [prasadreddy03](http://prasadreddy03.vercel.app)
+* 📄  My CV [Resume](https://drive.usercontent.google.com/u/0/uc?id=1nuEki8wMR452fpPtK54D2un3ruFVfhmf&export=download)
 * ✉️  You can contact me at [prasadreddymar6@gmail.com](mailto:prasadreddymar6@gmail.com)
 * 🚀  I'm currently working on [Startup Hub](http://startuphub.vercel.app)
 * 🧠  I'm learning NextJS + Firebase
