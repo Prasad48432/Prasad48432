@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer | App Developer
 ----------------------------------------
 
-* 🌍  I'm based in India
 * 🖥️  See my portfolio at [prasadreddy03](http://prasadreddy03.vercel.app)
 * 📄  My CV [Resume](https://drive.usercontent.google.com/u/0/uc?id=19M_Nrg6vx7dX-KA0p1M2KeyBXvau-FUo&export=download)
 * ✉️  You can contact me at [prasadreddymar6@gmail.com](mailto:prasadreddymar6@gmail.com)
