@@ -8,7 +8,7 @@ Full Stack Web Developer | App Developer
 * 📄  My CV [Resume](https://drive.google.com/file/d/1D-yV_RK8wyXmZ-e2FIseHFAvJXvP_kkA/view?usp=sharing&export=download)
 * ✉️  You can contact me at [prasadreddymar6@gmail.com](mailto:prasadreddymar6@gmail.com)
 * 🚀  I'm currently working on [Linkfolio](http://linkfolio-dev.vercel.app)
-* 🧠  I'm currently mastering NextJS, Docker, Socket IO, Postgres
+* 🧠  I'm currently mastering NextJS, Docker, Prisma, Postgres
 
 ### Skills
 
