@@ -10,7 +10,7 @@ Full Stack Web Developer | App Developer
 Language and Tools
 ----------------------------------------
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,dart,html,css,react,nextjs,tailwind,vite,nodejs,express,dotnet,prisma,flutter,postgres,mysql,mongodb,firebase,supabase,docker,aws,vercel,git,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,ts,dart,html,css,react,nextjs,tailwind,vite,nodejs,express,dotnet,prisma,flutter,postgres,mysql,mongodb,firebase,supabase,redis,docker,aws,vercel,git,npm,pnpm,vscode,)](https://skillicons.dev)
 
 
 
