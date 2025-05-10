@@ -1,6 +1,6 @@
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Instagram Profile](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your-profile)
-[![X Profile](https://img.shields.io/badge/X-Profile-black?logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/prasadreddy03)
+[![Instagram Profile](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sai_prasadreddy03/)
+[![X Profile](https://img.shields.io/badge/X-Profile-black?logo=twitter&logoColor=white)](https://x.com/SaiMikkili)
 
 
 Sai Prasad Reddy | Full Stack Web Developer | App Developer
