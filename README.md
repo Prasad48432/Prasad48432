@@ -9,7 +9,7 @@ Sai Prasad Reddy | Full Stack Web Developer | App Developer
 * 🖥️  See my portfolio at [prasadreddy03](http://prasadreddy03.vercel.app)
 * 📄  My CV [Resume](https://drive.google.com/file/d/1BT56v0ikO6xetNHZEPH5CYMbXQt7m74B/view?export=download)
 * 🚀  I'm currently working on [Linkfolio](https://linkfolio.space)
-* 🧠  I'm currently mastering NextJS, Docker, Prisma, Postgres
+* 🧠  I'm currently mastering NextJS, TailwindCSS, ShadCN, Supabase
 * 📈  Contributed to open source projects [Dub](https://github.com/dubinc/dub?tab=readme-ov-file#contributing)
 
 Language and Tools
