@@ -3,7 +3,7 @@
 [![X Profile](https://img.shields.io/badge/X-Profile-black?logo=twitter&logoColor=white)](https://x.com/SaiMikkili)
 
 
-Sai Prasad Reddy | Full Stack Web Developer @RevivalLabs
+Sai Prasad Reddy | Full Stack AI Developer @RevivalLabs (Congkong)
 ----------------------------------------
 
 * 🖥️  Check my [Portfolio](http://prasadreddy03.vercel.app)
