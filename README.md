@@ -6,7 +6,7 @@
 Sai Prasad Reddy | Full Stack Web Developer @RevivalLabs
 ----------------------------------------
 
-* 🖥️  See my portfolio at [prasadreddy03](http://prasadreddy03.vercel.app)
+* 🖥️  Check my [Portfolio](http://prasadreddy03.vercel.app)
 * 📄  My CV [Resume](https://drive.google.com/file/d/1BT56v0ikO6xetNHZEPH5CYMbXQt7m74B/view?export=download)
 * 🚀  I'm currently working on [Linkfolio](https://linkfolio.space)
 * 🧠  I'm currently mastering NextJS, TailwindCSS, ShadCN, Supabase
