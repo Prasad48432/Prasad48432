@@ -15,5 +15,5 @@ Sai Prasad Reddy | Full Stack AI Developer @RevivalLabs (Congkong)
 Language and Tools
 ----------------------------------------
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,cs,dart,html,css,react,nextjs,tailwind,vite,nodejs,express,prisma,flutter,postgres,mysql,mongodb,firebase,supabase,redis,docker,aws,vercel,git,pnpm)](https://prasadreddy03.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,cs,python,dart,html,css,react,nextjs,tailwind,vite,nodejs,express,prisma,flutter,postgres,mysql,mongodb,firebase,supabase,redis,docker,aws,vercel,git,pnpm)](https://prasadreddy03.vercel.app)
 
