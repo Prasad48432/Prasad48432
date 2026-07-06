@@ -7,7 +7,7 @@ Sai Prasad Reddy | Full Stack AI Developer @RevivalLabs (Congkong)
 ----------------------------------------
 
 * 🖥️  Check my [Portfolio](http://prasadreddy03.vercel.app)
-* 📄  My CV [Resume](https://drive.google.com/file/d/1TuvGrKu8PwEKW6FSH7ZZf_CkkkTGtJz3/view?usp=sharing)
+* 📄  My CV [Resume](https://drive.google.com/file/d/1J-pVoexB7JJqjuHM3lqRIgaiJzR9aaWy/view?usp=sharing)
 * 🚀  Working at Revival Labs
 * 🧠  Currently mastering NextJS, TailwindCSS, ShadCN, Supabase
 * 📈  Contributed to open source projects [Dub](https://github.com/dubinc/dub?tab=readme-ov-file#contributing)
