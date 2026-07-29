@@ -7,7 +7,7 @@ Sai Prasad Reddy | Full Stack AI Developer @RevivalLabs (Congkong)
 ----------------------------------------
 
 * 🖥️  Check my [Portfolio](http://prasadreddy03.vercel.app)
-* 📄  My CV [Resume](https://drive.google.com/file/d/1hRCcjlDG4SBwF4kob7EEVhJbRr7Rv9MU/view?usp=sharing)
+* 📄  My CV [Resume](https://drive.google.com/file/d/1IqR8nmpL5KtMYeSI-kPQBVNbJEG3BKKY/view?usp=sharing)
 * 🚀  Working at Revival Labs
 * 🧠  Currently mastering NextJS, React, TailwindCSS, Postgres, Shadcn
 * 📈  Contributed to open source projects [Dub](https://github.com/dubinc/dub?tab=readme-ov-file#contributing), [Microsoft](https://github.com/microsoft/fast), [Vercel](https://github.com/vercel/turborepo), [E2B](https://github.com/e2b-dev/fragments)
@@ -15,5 +15,5 @@ Sai Prasad Reddy | Full Stack AI Developer @RevivalLabs (Congkong)
 Language and Tools
 ----------------------------------------
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,cs,python,dart,html,css,react,nextjs,tailwind,vite,nodejs,express,prisma,flutter,postgres,mysql,mongodb,firebase,supabase,redis,docker,aws,vercel,git,pnpm)](https://prasadreddy03.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,cs,html,css,react,nextjs,tailwind,vite,nodejs,express,prisma,flutter,postgres,mysql,mongodb,firebase,supabase,redis,docker,aws,vercel,git,pnpm)](https://prasadreddy03.vercel.app)
 
