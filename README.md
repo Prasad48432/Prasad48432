@@ -6,10 +6,10 @@
 Sai Prasad Reddy | AI Product Engineer @RevivalLabs (Congkong)
 ----------------------------------------
 
-* 🖥️  Check my [Portfolio](http://prasadreddy03.vercel.app)
-* 📄  My CV [Resume](https://drive.google.com/file/d/1IqR8nmpL5KtMYeSI-kPQBVNbJEG3BKKY/view?usp=sharing)
+* 🖥️  Check my [Portfolio](http://prasadreddy.dev)
+* 📄  My CV [Resume](https://drive.google.com/file/d/1qKwWgCHWmUwZyXHJchnpjbs_-noCqKw9/view?usp=sharing)
 * 🚀  Working at Revival Labs
-* 🧠  Currently mastering NextJS, React, TailwindCSS, Postgres, Shadcn
+* 🧠  Currently mastering NextJS, Postgres, RAG, AI Agents, MCP
 * 📈  Contributed to open source projects [Dub](https://github.com/dubinc/dub?tab=readme-ov-file#contributing), [Microsoft](https://github.com/microsoft/fast), [Vercel](https://github.com/vercel/turborepo), [E2B](https://github.com/e2b-dev/fragments)
 
 Language and Tools
